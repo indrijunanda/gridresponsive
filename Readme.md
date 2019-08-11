@@ -1,13 +1,13 @@
 
 # Project 3 
 
-## Grid Responsive 
+## Responsive Layout
 
 Mobile Web Specialist - Google Developer Kejar 2018
 
 -------------------
 
-**[DEMO](https://indrijunanda.github.io/add2number-simple/)**
+**[DEMO](https://indrijunanda.github.io/responsive-layout/)**
 
 -------------------
 
